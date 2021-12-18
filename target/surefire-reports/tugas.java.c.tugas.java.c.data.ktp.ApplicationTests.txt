@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tugas.java.c.tugas.java.c.data.ktp.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.748 s - in tugas.java.c.tugas.java.c.data.ktp.ApplicationTests
